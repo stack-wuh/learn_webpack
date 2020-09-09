@@ -1,0 +1,1 @@
+document.write('<h3>This is index2.js</h3>')
