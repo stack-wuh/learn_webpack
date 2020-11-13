@@ -6,7 +6,7 @@
   "scripts": {
     "test": "dev build",
 	"dev": "webpack-dev-server --open",
-	"build": "webpack -p"
+	"build": "webpack -p=3001"
   },
   "author": "",
   "license": "ISC"
